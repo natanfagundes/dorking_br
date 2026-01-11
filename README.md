@@ -33,6 +33,6 @@ Essa técnica é amplamente usada em **pentest, bug bounty e OSINT**.
 ## 🛠️ Instalação
 
 ```bash
-git clone https://github.com/seuusuario/google-dorking-br.git
+git clone https://github.com/natanfagundes/dorking_br.git
 cd google-dorking-br
 pip install -r requirements.txt
